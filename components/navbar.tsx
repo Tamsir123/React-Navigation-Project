@@ -13,16 +13,16 @@ export default function Navbar() {
             <Link href="/" className="transition-colors hover:text-primary">
               Accueil
             </Link>
-            <Link href="/services" className="transition-colors hover:text-primary">
+            <Link href="/navigation/services" className="transition-colors hover:text-primary">
               Services
             </Link>
-            <Link href="/portfolio" className="transition-colors hover:text-primary">
+            <Link href="/navigation/portfolio" className="transition-colors hover:text-primary">
               Portfolio
             </Link>
-            <Link href="/a-propos" className="transition-colors hover:text-primary">
+            <Link href="/navigation/a-propos" className="transition-colors hover:text-primary">
               À propos
             </Link>
-            <Link href="/contact" className="transition-colors hover:text-primary">
+            <Link href="/navigation/contact" className="transition-colors hover:text-primary">
               Contact
             </Link>
           </nav>

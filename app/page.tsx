@@ -17,10 +17,10 @@ export default function Home() {
               </p>
             </div>
             <div className="space-x-4">
-              <Link href="/services">
+             <Link href="/navigation/services">
                 <Button>Découvrir nos services</Button>
               </Link>
-              <Link href="/contact">
+              <Link href="/navigation/contact">
                 <Button variant="outline">Nous contacter</Button>
               </Link>
             </div>
